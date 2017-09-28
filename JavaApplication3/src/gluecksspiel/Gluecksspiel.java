@@ -1,5 +1,5 @@
 
-package javaapplication3;
+package gluecksspiel;
 
 import b7i.random.*;
 import java.util.Scanner;
