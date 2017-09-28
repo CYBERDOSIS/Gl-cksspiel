@@ -13,7 +13,7 @@ public class Gluecksspiel {
         B7IRandom randomNumberGenerator = new B7IRandom();
         System.out.println("Willkommen bei Lucky Dice!");
         Scanner myScanner = new Scanner(System.in);
-        
+         
         System.out.println("Möchten Sie Würfeln? Ja oder Nein");
         String start = myScanner.nextLine();
         while (start.equals("Ja")) {
